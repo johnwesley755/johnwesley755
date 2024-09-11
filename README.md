@@ -4,7 +4,7 @@
 
 🌱 **Currently Learning**: I'm diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to build responsive and animated web apps. I enjoy experimenting with new tools and technologies to enhance user experiences.
 
-💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform, a community skill exchange, or a unique web app idea, I'm always open to working with like-minded developers and designers.
+💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform or a unique web app idea, I'm always open to working with like-minded developers and designers.
 
 ---
 
@@ -47,6 +47,6 @@ Feel free to reach out to me via email at [johnwesley8113@gmail.com](mailto:john
 
 ### 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnwesley/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/johnwesleydev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-6707ab258/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JohnWesley97513)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://johnwesley.dev)
