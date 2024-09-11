@@ -4,7 +4,7 @@
 
 🌱 **Currently Learning**: I'm diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to build responsive and animated web apps. I enjoy experimenting with new tools and technologies to enhance user experiences.
 
-💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform, a community skill exchange, or a unique web app idea, I'm always open to working with like-minded developers and designers.
+💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform or a unique web app idea, I'm always open to working with like-minded developers and designers.
 
 ---
 
