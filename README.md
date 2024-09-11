@@ -4,7 +4,7 @@
 
 🌱 **Currently Learning**: I'm diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to build responsive and animated web apps. I enjoy experimenting with new tools and technologies to enhance user experiences.
 
-💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform or a unique web app idea, I'm always open to working with like-minded developers and designers.
+💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform, a community skill exchange, or a unique web app idea, I'm always open to working with like-minded developers and designers.
 
 ---
 
@@ -22,6 +22,10 @@
 
 - **Backend**:  
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 - **Tools**:  
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
