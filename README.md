@@ -49,4 +49,4 @@ Feel free to reach out to me via email at [johnwesley8113@gmail.com](mailto:john
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-6707ab258/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JohnWesley97513)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://johnwesley.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/johnwesley755/portfolio)
