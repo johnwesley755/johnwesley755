@@ -17,20 +17,31 @@ Excited to collaborate on projects that aim to **make a real-world impact**! Whe
 
 ## 🔧 **Tech Stack**
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" />
-</p>
+### 🖥 **Frontend**  
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" align="left" />
+<br clear="all" />
+
+### 🔥 **Backend**  
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" align="left" />
+<br clear="all" />
+
+### 💻 **Programming Languages**  
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin: 10px;" align="left" />
+<br clear="all" />
+
+### 🛠 **Development Tools**  
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;" align="left" />
+<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 10px;" align="left" />
+<br clear="all" />
 
 ---
 
@@ -50,7 +61,7 @@ When I'm not coding, you can find me exploring new design trends, playing with a
 
 ## ⚡ **Let's Connect!**
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/john-wesley-6707ab258/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
