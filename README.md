@@ -1,52 +1,65 @@
 # 👋 Hi there! I'm John Wesley (@johnwesley755)
 
-👀 **Interests**: I'm passionate about web development, UI/UX design, and creating innovative digital experiences that bring real value to users. I love crafting user-friendly designs with clean typography, engaging animations, and cohesive color palettes.
-
-🌱 **Currently Learning**: I'm diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to build responsive and animated web apps. I enjoy experimenting with new tools and technologies to enhance user experiences.
-
-💞️ **Looking to Collaborate On**: I'm excited to collaborate on projects that aim to make a real-world impact! Whether it’s a gig economy platform or a unique web app idea, I'm always open to working with like-minded developers and designers.
+🌟 **Passionate Web Developer & UI/UX Enthusiast**  
+I love crafting **user-friendly designs** with clean typography, engaging animations, and cohesive color palettes. My focus is on building digital experiences that bring real value to users.
 
 ---
 
-## 🔧 Tech Stack
-
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- **Backend**:  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-- **Tools**:  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## 🚀 **What I'm Learning**  
+Currently diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to build **responsive and animated web apps**. I'm constantly experimenting with new tools and technologies to enhance user experiences.
 
 ---
 
-## 📫 How to Reach Me
-
-Feel free to reach out to me via email at [johnwesley8113@gmail.com](mailto:johnwesley8113@gmail.com). Let's connect and create something amazing together!
-
-😄 **Pronouns**: He/Him
-
-⚡ **Fun Fact**: I love combining code and creativity to craft beautiful and efficient web designs! When I'm not coding, you can find me exploring new design trends or playing around with animations.
+## 💼 **Projects I Want to Collaborate On**  
+Excited to collaborate on projects that aim to **make a real-world impact**! Whether it’s a gig economy platform or a unique web app idea, I'm always open to working with like-minded developers and designers.
 
 ---
 
-### 💬 Let's Connect!
+## 🔧 **Tech Stack**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-6707ab258/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JohnWesley97513)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/johnwesley755/portfolio)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" />
+</p>
+
+---
+
+## 💬 **How to Reach Me**
+
+- 📧 Email: [johnwesley8113@gmail.com](mailto:johnwesley8113@gmail.com)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/john-wesley-6707ab258/)  
+- 🐦 Twitter: [Twitter Profile](https://twitter.com/JohnWesley97513)  
+- 🌐 Portfolio: [Visit My Portfolio](https://github.com/johnwesley755/portfolio)
+
+---
+
+## 😄 **Fun Fact**  
+When I'm not coding, you can find me exploring new design trends, playing with animations, or testing the latest tech tools!
+
+---
+
+## ⚡ **Let's Connect!**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-wesley-6707ab258/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/JohnWesley97513">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/johnwesley755/portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
