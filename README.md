@@ -45,12 +45,17 @@ Excited to collaborate on projects that aim to **make a real-world impact**! Whe
 
 ---
 
-## 💬 **How to Reach Me**
+## 📂 **Latest Projects**
 
-- 📧 Email: [johnwesley8113@gmail.com](mailto:johnwesley8113@gmail.com)  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/john-wesley-6707ab258/)  
-- 🐦 Twitter: [Twitter Profile](https://twitter.com/JohnWesley97513)  
-- 🌐 Portfolio: [Visit My Portfolio](https://github.com/johnwesley755/portfolio)
+- **SideGig App**  
+  A platform connecting freelancers and gig workers with clients, offering secure messaging, gig browsing, and skill showcasing.  
+  **Tech:** React, Firebase, Tailwind CSS  
+  [View Project](https://side-gig-website.web.app/)
+
+- **E-commerce Virtual Try-On**  
+  An e-commerce website featuring a virtual try-on feature using AI diffusion models to enhance the shopping experience.  
+  **Tech:** React, AI Models  
+  [View Project](https://github.com/johnwesley755/Vutoria)
 
 ---
 
