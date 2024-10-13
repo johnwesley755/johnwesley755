@@ -73,7 +73,7 @@ When I'm not coding, you can find me exploring new design trends, playing with a
   <a href="https://twitter.com/JohnWesley97513">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/johnwesley755/portfolio">
+  <a href="https://johnwesley755.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
