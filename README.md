@@ -60,7 +60,7 @@ I’m excited to work on projects that **make a real-world impact**! I enjoy col
 - **Soulsborne Educational Platform**  
   **Soulsborne** is a learning management platform connecting **students, instructors, and companies** to bridge the gap between learning and real-time job market demands. It enhances **skill development** through project-based learning and fosters collaboration between users to prepare for in-demand roles.  
   **Tech:** React, Firebase, Tailwind CSS  
-  **Deployed Link:** [Soulsborne](https://soulsborne-platform.web.app/)  
+  **Deployed Link:** [Soulsborne](https://soulsborne-bba5f.web.app/)  
 
 ---
 
