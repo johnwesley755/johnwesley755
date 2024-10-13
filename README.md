@@ -54,7 +54,7 @@ I’m excited to work on projects that **make a real-world impact**! I enjoy col
 
 - **Vutoria E-commerce Virtual Try-On**  
   An e-commerce website featuring virtual try-on powered by **AI diffusion models**, enhancing the shopping experience.  
-  **Tech:** React, AI Models  
+  **Tech:** React, Tailwind CSS
   **Deployed Link:** [Vutoria](https://vutoria-60389.web.app/)  
 
 - **Soulsborne Educational Platform**  
