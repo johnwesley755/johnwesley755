@@ -65,6 +65,10 @@ When I'm not coding, you’ll likely find me exploring design trends, testing an
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
   <a href="https://johnwesley-755.netlify.app/">
-    <img src="https://img.icons8.com/color/48/000000/google-chrome.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/color/48/000000/chrome--v1.png" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+Feel free to explore my projects and connect if you want to **collaborate or discuss new ideas**! 🚀
