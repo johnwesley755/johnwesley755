@@ -1,71 +1,57 @@
 # 👋 Hi there! I'm John Wesley (@johnwesley755)  
 
 🌟 **Passionate Web Developer & UI/UX Enthusiast**  
-I love crafting **user-friendly designs** with clean typography, engaging animations, and cohesive color palettes. My focus is on building digital experiences that offer **real-world solutions** and bring value to users.
+Crafting **user-friendly, visually engaging** web experiences is my forte! I love using clean typography, intuitive layouts, and interactive animations to build **meaningful digital experiences**.
 
 ---
 
 ## 🚀 **What I'm Learning**  
-Currently diving deeper into advanced **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to create **responsive, interactive, and animated web apps**. I thrive on exploring innovative technologies to improve user experiences and accessibility.
+Currently diving deeper into **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to create **responsive, interactive, and animated web apps**. I’m passionate about enhancing accessibility and user engagement through innovative design.
 
 ---
 
 ## 💼 **Projects I Want to Collaborate On**  
-I’m excited to work on projects that **make a real-world impact**! I enjoy collaborating on gig economy platforms, educational initiatives, or unique web ideas with developers and designers who share a passion for building meaningful products.
+I'm excited about projects that **make a real-world impact**! I'd love to collaborate on **gig economy platforms, educational tools,** or unique web solutions with others who share a passion for creating value through tech.
 
 ---
 
 ## 🔧 **Tech Stack**
 
 ### 🖥 **Frontend**  
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" align="left" />  
-<br clear="all" />
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Vite](https://img.icons8.com/color/48/000000/vite.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind_css.png) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)
 
 ### 🔥 **Backend**  
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" align="left" />  
-<br clear="all" />
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
 ### 💻 **Programming Languages**  
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin: 10px;" align="left" />  
-<br clear="all" />
+![Python](https://img.icons8.com/color/48/000000/python.png) ![C Programming](https://img.icons8.com/color/48/000000/c-programming.png)
 
 ### 🛠 **Development Tools**  
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;" align="left" />  
-<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 10px;" align="left" />  
-<br clear="all" />
+![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
 ---
 
 ## 📂 **Latest Projects**
 
 - **SideGig App**  
-  A platform connecting freelancers and gig workers with clients. It offers secure messaging, gig browsing, and skill showcasing.  
+  A platform connecting freelancers and gig workers with clients, featuring secure messaging, gig browsing, and skill showcasing.  
   **Tech:** React, Firebase, Tailwind CSS  
   **Deployed Link:** [SideGig App](https://side-gig-website.web.app/)  
 
 - **Vutoria E-commerce Virtual Try-On**  
-  An e-commerce website featuring virtual try-on powered by **AI diffusion models**, enhancing the shopping experience.  
-  **Tech:** React, Tailwind CSS
+  E-commerce site with a **virtual try-on feature powered by AI**, making online shopping more interactive.  
+  **Tech:** React, Tailwind CSS  
   **Deployed Link:** [Vutoria](https://vutoria-60389.web.app/)  
 
 - **Soulsborne Educational Platform**  
-  **Soulsborne** is a learning management platform connecting **students, instructors, and companies** to bridge the gap between learning and real-time job market demands. It enhances **skill development** through project-based learning and fosters collaboration between users to prepare for in-demand roles.  
+  **Soulsborne** connects students, instructors, and companies to bridge the skill gap with project-based learning and real-world experience.  
   **Tech:** React, Firebase, Tailwind CSS  
   **Deployed Link:** [Soulsborne](https://soulsborne-bba5f.web.app/)  
 
 ---
 
 ## 😄 **Fun Fact**  
-When I'm not coding, you can find me exploring new design trends, playing with animations, or testing the latest tech tools!
+When I'm not coding, you’ll likely find me exploring design trends, testing animations, or trying the latest tech tools! 🌍
 
 ---
 
@@ -73,16 +59,12 @@ When I'm not coding, you can find me exploring new design trends, playing with a
 
 <p align="left">
   <a href="https://www.linkedin.com/in/john-wesley-6707ab258/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/JohnWesley97513">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
   <a href="https://johnwesley-755.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/google-chrome.png" alt="Portfolio" />
   </a>
 </p>
-
----
-
-Feel free to explore my projects, and let's connect if you want to **collaborate or discuss new ideas**! 🚀  
