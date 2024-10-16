@@ -1,7 +1,3 @@
-Share
-
-
-You said:
 # 👋 Hi there! I'm John Wesley (@johnwesley755)  
 
 🌟 **Passionate Web Developer & UI/UX Enthusiast**  
