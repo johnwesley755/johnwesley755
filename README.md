@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm John Wesley (@johnwesley755)  
+# **👋 Hi there! I'm John Wesley (@johnwesley755)**
 
 🌟 **Passionate Web Developer & UI/UX Enthusiast**  
 I love crafting **user-friendly designs** with clean typography, engaging animations, and cohesive color palettes. My focus is on building digital experiences that offer **real-world solutions** and bring value to users.
