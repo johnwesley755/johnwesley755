@@ -21,7 +21,7 @@ I’m excited to work on projects that **make a real-world impact**! I enjoy col
 
 ### 🖥 **Frontend Frameworks**
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" style="margin: 10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width: 40px; height: 40px; margin: 10px;" align="left" />
 <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" style="margin: 10px;" align="left" />
 <br clear="all" />
 
@@ -29,6 +29,8 @@ I’m excited to work on projects that **make a real-world impact**! I enjoy col
 <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" align="left" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 10px;" align="left" />
 <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" align="left" />
+<img src="https://avatars.githubusercontent.com/u/139895814?v=" alt="Shadcn" style="width: 40px; height: 40px; margin: 10px;" align="left" />
+
 <br clear="all" />
 
 ### 🔥 **Backend & Database**
