@@ -1,107 +1,36 @@
-# **👋 Hi there! I'm John Wesley (@johnwesley755)**
+<h1 align="center">Hi 👋, I'm John Wesley</h1>
+<h3 align="center">🌟 Passionate Web Developer & UI/UX Enthusiast</h3>
 
-🌟 **Passionate Web Developer & UI/UX Enthusiast**
-I love crafting **user-friendly designs** with clean typography, engaging animations, and cohesive color palettes. My focus is on building digital experiences that offer **real-world solutions** and bring value to users.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20views&color=0e75b6&style=flat" alt="johnwesley755" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnwesley755" alt="johnwesley755" /></a> </p>
 
-## 🚀 **What I'm Learning**
+<p align="left"> <a href="https://twitter.com/johnwesley97513" target="blank"><img src="https://img.shields.io/twitter/follow/johnwesley97513?logo=twitter&style=for-the-badge" alt="johnwesley97513" /></a> </p>
 
-Currently diving deeper into advanced **React**, **Next.js**, **Vite**, **Tailwind CSS**, **Shadcn**, **Bootstrap**, and **Framer Motion** to create **responsive, interactive, and animated web apps**. I thrive on exploring innovative technologies to improve user experiences and accessibility.
+- 🔭 I’m currently working on front end for virtual try on system [Vutoria](https://vutoria-60389.web.app/)
 
----
+- 🌱 I’m currently learning **Next js**
 
-## 💼 **Projects I Want to Collaborate On**
+- 👯 I’m currently working on front end for educational platform named Soulsborne [Soulsborne](https://soulsborne-261a4.web.app/)
 
-I’m excited to work on projects that **make a real-world impact**! I enjoy collaborating on gig economy platforms, educational initiatives, or unique web ideas with developers and designers who share a passion for building meaningful products.
+- 🤝 I also worked on a platform connecting freelancers and gig workers with clients. It offers secure messaging, gig browsing, and skill showcasing [Side Gig](https://side-gig-website.web.app/)
 
----
+- 👨‍💻 All of my projects are available at [https://johnwesley-469ea.web.app/](https://johnwesley-469ea.web.app/)
 
-## 🔧 **Tech Stack**
+- 📫 How to reach me **johnwesley8113@gmail.com**
 
-### 🖥 **Frontend Frameworks**
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width: 40px; height: 40px; margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" style="margin: 10px;" align="left" />
-<br clear="all" />
-
-### 🎨 **Styling**
-<img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px;" align="left" />
-<img src="https://avatars.githubusercontent.com/u/139895814?v=" alt="Shadcn" style="width: 40px; height: 40px; margin: 10px;" align="left" />
-
-<br clear="all" />
-
-### 🔥 **Backend & Database**
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" align="left" />
-<br clear="all" />
-
-### 💻 **Programming Languages**
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin: 10px;" align="left" />
-<br clear="all" />
-
-### 🛠 **Development Tools**
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;" align="left" />
-<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 10px;" align="left" />
-<br clear="all" />
-
----
-
-## 📂 **Latest Projects**
-
-- **SideGig App**\
-  ✨ A platform connecting freelancers and gig workers with clients. It offers secure messaging, gig browsing, and skill showcasing.\
-  **Tech:** React, Firebase, Tailwind CSS\
-  **Deployed Link:** [SideGig App](https://side-gig-website.web.app/)
-
-- **Vutoria E-commerce Virtual Try-On**\
-  🛠️ An e-commerce website featuring virtual try-on powered by **AI diffusion models**, enhancing the shopping experience.\
-  **Tech:** React, Tailwind CSS\
-  **Deployed Link:** [Vutoria](https://vutoria-60389.web.app/)
-
-- **Soulsborne Educational Platform**\
-  🎓 A learning management platform connecting **students, instructors, and companies** to bridge the gap between learning and real-time job market demands. It enhances **skill development** through project-based learning and fosters collaboration between users to prepare for in-demand roles.\
-  **Tech:** React, Firebase, Tailwind CSS\
-  **Deployed Link:** [Soulsborne](https://soulsborne-261a4.web.app/)
-
----
-
-## 😍 **Why Collaborate With Me?**
-
-- **Visionary Ideas:** I enjoy brainstorming and shaping innovative solutions.
-- **Strong Design Aesthetics:** Focused on creating visually appealing and functional designs.
-- **Team Player:** Thrives in collaborative environments and enjoys learning from peers.
-
----
-
-## 😎 **Fun Fact**
-
-When I'm not coding, you can find me exploring new design trends, playing with animations, or testing the latest tech tools!
-
----
-
-## ⚡ **Let's Connect!**
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-wesley-6707ab258/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/JohnWesley97513">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://johnwesley-469ea.web.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<a href="https://twitter.com/johnwesley97513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnwesley97513" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-wesley-6707ab258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-wesley-6707ab258" height="30" width="40" /></a>
+<a href="https://instagram.com/john_wesley_755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="john_wesley_755" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-Feel free to explore my projects, and let's connect if you want to **collaborate or discuss new ideas**! 🚀
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwesley755&show_icons=true&locale=en&layout=compact" alt="johnwesley755" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&locale=en" alt="johnwesley755" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnwesley755&" alt="johnwesley755" /></p>
