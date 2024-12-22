@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm John Wesley</h1>
 <h3 align="center">🌟 Passionate Web Developer & UI/UX Enthusiast</h3>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ2ODRieW54bWs4dTlvdGRkcnZlb3A3NzQ2OWx3dWlhYnRleHJlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome GIF" width="500" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20views&color=0e75b6&style=flat" alt="johnwesley755" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnwesley755" alt="johnwesley755" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/johnwesley97513" target="blank"><img src="https://img.shields.io/twitter/follow/johnwesley97513?logo=twitter&style=for-the-badge" alt="johnwesley97513" /></a> </p>
+
+
+## 🧑‍💻 About Me  
+
+- 🌱 Currently learning **React, Next.js, and Tailwind CSS** for modern web development.  
+- 🎯 Focused on projects that provide real-world solutions, like gig economy apps and e-commerce platforms.  
+- 🚀 Building an AI-powered virtual try-on feature for an e-commerce website.  
+- 🎨 I love crafting user-friendly designs with clean typography, engaging animations, and cohesive color palettes.  
+
+---
+
+## 🔭 What I'm Working On  
 
 - 🔭 I’m currently working on front end for virtual try on system [Vutoria](https://vutoria-60389.web.app/)
 
@@ -17,6 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johnwesley-469ea.web.app/](https://johnwesley-469ea.web.app/)
 
+---
 - 📫 How to reach me **johnwesley8113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -78,8 +95,18 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwesley755&show_icons=true&locale=en&layout=compact" alt="johnwesley755" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&locale=en" alt="johnwesley755" /></p>
+## 📈 GitHub Stats  
 
+[![John Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
+---
+
+## 🏆 Fun Extras  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=johnwesley755&theme=radical)  
+![Snake animation](https://github.com/johnwesley755/johnwesley755/blob/output/github-contribution-grid-snake.gif)  
+
+Thanks for stopping by! 😊 Let's build something amazing together. 🚀
