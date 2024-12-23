@@ -107,6 +107,7 @@
 ## 🏆 Fun Extras  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=johnwesley755&theme=radical)  
-![Snake animation](https://github.com/johnwesley755/johnwesley755/blob/output/github-contribution-grid-snake.gif)  
+
+![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
 
 Thanks for stopping by! 😊 Let's build something amazing together. 🚀
