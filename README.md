@@ -2,14 +2,18 @@
 <h3 align="center">🌟 Passionate Web Developer & UI/UX Enthusiast</h3>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ2ODRieW54bWs4dTlvdGRkcnZlb3A3NzQ2OWx3dWlhYnRleHJlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome GIF" width="500" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRtbDcwaWhqNTAzNmtpY2lmdHJlZ251NXpyMmplNjF2NjV1eDJndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Welcome GIF" width="500" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20views&color=0e75b6&style=flat" alt="johnwesley755" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=johnwesley755&theme=gruvbox" alt="GitHub Trophies" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnwesley755" alt="johnwesley755" /></a> </p>
+<p align="left"> <a href="https://twitter.com/johnwesley97513" target="blank"><img src="https://img.shields.io/twitter/follow/johnwesley97513?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/johnwesley97513" target="blank"><img src="https://img.shields.io/twitter/follow/johnwesley97513?logo=twitter&style=for-the-badge" alt="johnwesley97513" /></a> </p>
 
 
 ## 🧑‍💻 About Me  
