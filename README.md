@@ -111,7 +111,7 @@
 ## 🏆 Fun Extras  
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=johnwesley755&theme=radical&cache=force)
+![GitHub Streak](https://streak-stats.demolab.com/?user=johnwesley755&theme=radical&cache=force&cache_seconds=86400)
 
 ![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
 
