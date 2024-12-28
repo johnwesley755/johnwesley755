@@ -103,15 +103,20 @@
 
 ## 📈 GitHub Stats  
 
-[![John Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- Top languages with radical theme -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwesley755&show_icons=true&locale=en&layout=compact&theme=radical" alt="johnwesley755" /></p>
+
+<!-- GitHub stats with radical theme -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&locale=en&theme=radical" alt="johnwesley755" /></p>
 
 ---
 
 ## 🏆 Fun Extras  
 
+<!-- GitHub streak stats with radical theme -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnwesley755&theme=radical" alt="johnwesley755" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=johnwesley755&theme=radical&cache=force&cache_seconds=86400)
+
 
 ![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
 
