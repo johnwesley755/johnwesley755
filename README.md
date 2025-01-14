@@ -117,7 +117,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnwesley755&theme=radical" alt="johnwesley755" /></p>
 
 
-
 ![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
 
 Thanks for stopping by! 😊 Let's build something amazing together. 🚀
