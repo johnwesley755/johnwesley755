@@ -35,7 +35,7 @@
 
 - 🤝 I also worked on a platform connecting freelancers and gig workers with clients. It offers secure messaging, gig browsing, and skill showcasing [Side Gig](https://side-gig-website.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://johnwesley-469ea.web.app/](https://johnwesley-469ea.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://johnwesley.vercel.app/)
 
 ---
 - 📫 How to reach me **johnwesley8113@gmail.com**
