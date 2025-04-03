@@ -33,8 +33,6 @@
 
 - 👯 I’m currently working on front end for educational platform named Soulsborne [Soulsborne](https://soulsborne-261a4.web.app/)
 
-- 🤝 I also worked on a platform connecting freelancers and gig workers with clients. It offers secure messaging, gig browsing, and skill showcasing [Side Gig](https://side-gig-website.web.app/)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://johnwesley.vercel.app/)
 
 ---
