@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:bold">Hi 👋, I'm John Wesley</h1>
-<h3 align="center">🌟 Passionate Web Developer & UI/UX Enthusiast</h3>
+<h3 align="center">🌟 Full Stack Web Developer & UI/UX Designer</h3>
 
 <div align="center">
   <img src="UI Developer.gif" width="500" alt="coding gif" />
