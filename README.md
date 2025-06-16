@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Passionate Web Developer & UI/UX Enthusiast</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+  <img src="UI Developer.gif" width="500" alt="coding gif" />
 </div>
 
 
