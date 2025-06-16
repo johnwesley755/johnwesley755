@@ -66,10 +66,9 @@
 
 ## 🧩 Fun & Animated Extras
 
-<details>
-  <summary><b>⚡ GitHub Snake</b></summary>
-  <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" />
-</details>
+
+![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
+
 
 ---
 
