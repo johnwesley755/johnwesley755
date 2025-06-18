@@ -36,7 +36,7 @@
 
 | Project | Description |
 |--------|-------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/7439/7439497.png" width="120"/> | ### 🚗 Car Dealership App<br>**Stack**: React, Flask, Node.js, Express, Docker<br>Built using a microservices architecture. Separate services for vehicle listings, dealer pricing, and customer support. Integrated with React frontend for real-time, scalable performance. |
+| <img src="https://cdn-icons-png.flaticon.com/512/7439/7439497.png" width="120"/> | ### 🚗 Car Dealership App<br>**Stack**: Django, Node.js, Express, Docker<br>Built using a microservices architecture. Separate services for vehicle listings, dealer pricing, and customer support. Integrated with React frontend for real-time, scalable performance. |
 | <img src="https://cdn-icons-png.flaticon.com/512/3983/3983610.png" width="120"/> | ### 🎥 Text-to-Video Generator<br>**Stack**: React, Python, HuggingFace, Tailwind CSS<br>Translates user input into animated video clips using NLP & AI. Includes text parsing, preview interface, and video auto-render pipeline. Designed with seamless user flow. |
 | <img src="https://cdn-icons-png.flaticon.com/512/3281/3281307.png" width="120"/> | ### 🤖 BPO Automation Platform<br>**Stack**: Express.js, Firebase Auth, Python NLP<br>Automates common BPO tasks — HR queries, IT help, profanity detection, policy search. Includes multi-user login, 2FA, and intelligent chatbot response handling. |
 
