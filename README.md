@@ -1,85 +1,92 @@
-<h1 align="center" style="font-weight:bold">Hi 👋, I'm John Wesley</h1>
-<h3 align="center">🌟 Full Stack Web Developer & UI/UX Designer</h3>
 
-<div align="center">
-  <img src="UI Developer.gif" width="500" alt="coding gif" />
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=johnwesley755&theme=gruvbox" alt="GitHub Trophies" />
-  </a> 
+<!-- 🚀 Cover GIF -->
+<p align="center">
+  <img src="download.gif" width="100%" alt="cover gif" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/johnwesley97513" target="blank"><img src="https://img.shields.io/twitter/follow/johnwesley97513?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00f7ff;">John Wesley</span></h1>
+<h3 align="center">💻 Full Stack Web Developer | 🎨 UI/UX Designer | 🤖 Tech Innovator</h3>
 
-
-
-## 🧑‍💻 About Me  
-
-- 🌱 Currently learning **React, Next.js, and Tailwind CSS** for modern web development.  
-- 🎯 Focused on projects that provide real-world solutions, like gig economy apps and e-commerce platforms.  
-- 🚀 Building an AI-powered virtual try-on feature for an e-commerce website.  
-- 🎨 I love crafting user-friendly designs with clean typography, engaging animations, and cohesive color palettes.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Microservices+%7C+AI+Tools+%7C+Animations+⚡;From+Frontend+Finesse+to+Backend+Brains+🧠" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔭 What I'm Working On  
+## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on front end for virtual try on system [Vutoria](https://vutoria-60389.web.app/)
+> I'm a passionate **Full Stack Web Developer** focused on creating practical, impactful solutions using modern web technologies.  
+> I enjoy blending **interactive design** with **strong architecture**, bringing ideas to life one pixel and logic block at a time.
 
-- 🌱 I’m currently learning **Next js**
-
-- 👯 I’m currently working on front end for educational platform named Soulsborne [Soulsborne](https://soulsborne-261a4.web.app/)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://johnwesley.vercel.app/)
+- 🧠 Currently learning: `Next.js`, `Framer Motion`, `3D Web Experiences`  
+- 💻 Obsessed with UI/UX polish, real-world logic & feature completeness  
+- 🌐 My Portfolio: [johnwesley.vercel.app](https://johnwesley.vercel.app/)
 
 ---
-- 📫 How to reach me **johnwesley8113@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,framer,figma,python,c,express,nodejs,mongodb,mui,git,github,firebase" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| <img src="https://cdn-icons-png.flaticon.com/512/7439/7439497.png" width="120"/> | ### 🚗 Car Dealership App<br>**Stack**: React, Flask, Node.js, Express, Docker<br>Built using a microservices architecture. Separate services for vehicle listings, dealer pricing, and customer support. Integrated with React frontend for real-time, scalable performance. |
+| <img src="https://cdn-icons-png.flaticon.com/512/3983/3983610.png" width="120"/> | ### 🎥 Text-to-Video Generator<br>**Stack**: React, Python, HuggingFace, Tailwind CSS<br>Translates user input into animated video clips using NLP & AI. Includes text parsing, preview interface, and video auto-render pipeline. Designed with seamless user flow. |
+| <img src="https://cdn-icons-png.flaticon.com/512/3281/3281307.png" width="120"/> | ### 🤖 BPO Automation Platform<br>**Stack**: Express.js, Firebase Auth, Python NLP<br>Automates common BPO tasks — HR queries, IT help, profanity detection, policy search. Includes multi-user login, 2FA, and intelligent chatbot response handling. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&theme=tokyonight&border_radius=20" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&layout=compact&theme=tokyonight&border_radius=20" height="180px"/>
+</p>
+
+---
+
+
+<!-- 🌐 Social Media Section -->
+<h2 align="left">🌐 Stay Connected</h2>
+
 <p align="left">
- <a href="https://twitter.com/johnwesley97513"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-  <a href="https://linkedin.com/in/john-wesley-6707ab258"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://instagram.com/john_wesley_755"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href="https://linkedin.com/in/john-wesley-6707ab258" target="_blank">
+    <img src="https://img.icons8.com/color/60/linkedin.png" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/johnwesley97513" target="_blank">
+    <img src="https://img.icons8.com/color/60/twitter--v1.png" alt="Twitter" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/john_wesley_755" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/instagram-new.png" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,c,figma,firebase,git,github,mui,vite,framer,express,mongodb" alt="skills" />
-</div>
+
+## 🎨 Creative Highlights
+
+* 🎬 Addicted to Framer Motion & animated UI transitions
+* 🧩 Debugs like solving Rubik's cubes
+* 🎧 Codes to Synthwave and Lo-Fi
+* 💡 Believes: `Function + Form = Impact`
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="github contribution snake animation" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📌 Final Message
 
-<!-- Top languages with radical theme -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&show_icons=true&locale=en&layout=compact&theme=radical" alt="johnwesley755" /></p>
-
-<!-- GitHub stats with radical theme -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&locale=en&theme=radical" alt="johnwesley755" /></p>
-
----
-
-## 🧩 Fun & Animated Extras
-
-
-![snake gif](https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg)  
-
-
----
-
-## 💌 Contact Me
-
-If you want to collaborate or just say hi:
-
-📧 **johnwesley8113@gmail.com**
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00F7FF&width=500&lines=Thanks+for+visiting+🚀;Let's+Build+Together+💻" alt="Typing SVG" />
-</div>
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Thanks+for+visiting+💙;Keep+building+cool+stuff+🚀;Stay+creative+🎨;Connect+anytime+💌" />
+</p>
