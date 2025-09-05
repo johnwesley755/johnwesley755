@@ -147,28 +147,26 @@ const johnWesley = {
 <a href="https://linkedin.com/in/john-wesley-6707ab258">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 <br/>
-<sub><b>Professional Network</b></sub>
+
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://twitter.com/johnwesley97513">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
 <br/>
-<sub><b>Tech Updates</b></sub>
+
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://instagram.com/john_wesley_755">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
 <br/>
-<sub><b>Behind the Code</b></sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://johnwesley.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B"/>
 <br/>
-<sub><b>Full Experience</b></sub>
 </a>
 </td>
 </tr>
