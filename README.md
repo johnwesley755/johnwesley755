@@ -1,92 +1,239 @@
+# 🌟 Welcome to My Digital Universe
 
-<!-- 🚀 Cover GIF -->
-<p align="center">
-  <img src="download.gif" width="100%" alt="cover gif" />
-</p>
-
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00f7ff;">John Wesley</span></h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎨 UI/UX Designer | 🤖 Tech Innovator</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Microservices+%7C+AI+Tools+%7C+Animations+⚡;From+Frontend+Finesse+to+Backend+Brains+🧠" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-> I'm a passionate **Full Stack Web Developer** focused on creating practical, impactful solutions using modern web technologies.  
-> I enjoy blending **interactive design** with **strong architecture**, bringing ideas to life one pixel and logic block at a time.
-
-- 🧠 Currently learning: `Next.js`, `Framer Motion`, `3D Web Experiences`  
-- 💻 Obsessed with UI/UX polish, real-world logic & feature completeness  
-- 🌐 My Portfolio: [johnwesley.vercel.app](https://johnwesley.vercel.app/)
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=John%20Wesley&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Tech%20Innovator&descAlignY=55&descSize=18" width="100%"/>
+  
+  <!-- Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+with+Code;💡+From+Concept+to+Reality;🎨+Design+%2B+Development+%3D+Magic;⚡+Microservices+%7C+AI+%7C+Animations" alt="Typing SVG" />
+  
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🎭 **About This Developer**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,framer,figma,python,c,express,nodejs,mongodb,mui,git,github,firebase" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🌌 **Current Mission**
+```typescript
+const johnWesley = {
+    role: "Full Stack Developer",
+    focus: ["Next.js", "Framer Motion", "3D Web Experiences"],
+    passion: "Creating Impactful Digital Experiences",
+    philosophy: "Function + Form = Impact ✨",
+    currentlyLearning: ["Next.js", "Framer Motion", "3D Web"],
+    funFact: "Codes to Synthwave & Lo-Fi beats 🎧"
+};
+```
 
-## 🚀 Featured Projects
+</td>
+<td width="50%">
 
-| Project | Description |
-|--------|-------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/7439/7439497.png" width="120"/> | ### 🚗 Car Dealership App<br>**Stack**: Django, Node.js, Express, Docker<br>Built using a microservices architecture. Separate services for vehicle listings, dealer pricing, and customer support. Integrated with React frontend for real-time, scalable performance. |
-| <img src="https://cdn-icons-png.flaticon.com/512/3983/3983610.png" width="120"/> | ### 🎥 Text-to-Video Generator<br>**Stack**: React, Python, HuggingFace, Tailwind CSS<br>Translates user input into animated video clips using NLP & AI. Includes text parsing, preview interface, and video auto-render pipeline. Designed with seamless user flow. |
-| <img src="https://cdn-icons-png.flaticon.com/512/3281/3281307.png" width="120"/> | ### 🤖 BPO Automation Platform<br>**Stack**: Express.js, Firebase Auth, Python NLP<br>Automates common BPO tasks — HR queries, IT help, profanity detection, policy search. Includes multi-user login, 2FA, and intelligent chatbot response handling. |
+### 🎯 **Quick Stats**
+- 🧠 **Obsessions**: UI/UX Polish & Clean Architecture
+- 💻 **Specialty**: Microservices & Interactive Design  
+- 🌐 **Portfolio**: [johnwesley.vercel.app](https://johnwesley.vercel.app/)
+- 🎨 **Workflow**: Design → Develop → Deploy → Delight
+- ⚡ **Debugging Style**: Like solving Rubik's cubes
+- 💡 **Core Belief**: Every pixel has a purpose
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&theme=tokyonight&border_radius=20" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&layout=compact&theme=tokyonight&border_radius=20" height="180px"/>
-</p>
-
----
-
-
-<!-- 🌐 Social Media Section -->
-<h2 align="left">🌐 Stay Connected</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/john-wesley-6707ab258" target="_blank">
-    <img src="https://img.icons8.com/color/60/linkedin.png" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/johnwesley97513" target="_blank">
-    <img src="https://img.icons8.com/color/60/twitter--v1.png" alt="Twitter" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/john_wesley_755" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/instagram-new.png" alt="Instagram" />
-  </a>
-</p>
-
-
-## 🎨 Creative Highlights
-
-* 🎬 Addicted to Framer Motion & animated UI transitions
-* 🧩 Debugs like solving Rubik's cubes
-* 🎧 Codes to Synthwave and Lo-Fi
-* 💡 Believes: `Function + Form = Impact`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠️ **Tech Arsenal**
 
+<div align="center">
+
+### 🎨 **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,framer&theme=dark&perline=9" />
+
+### ⚡ **Backend Power**
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,fastapi&theme=dark&perline=8" />
+
+### 🚀 **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,vercel,netlify&theme=dark&perline=8" />
+
+</div>
+
+---
+
+## 🏆 **Featured Masterpieces**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&h=200&fit=crop&crop=center" width="100%" style="border-radius: 10px;"/>
+
+### 🚗 **Car Dealership Platform**
+**`Django` `Node.js` `Docker` `React`**
+
+🏗️ Microservices architecture  
+⚡ Real-time vehicle listings  
+🔄 Scalable dealer management  
+📱 Responsive design system
+
+[View Project →](https://github.com/johnwesley755)
+
+</td>
+<td width="33%" align="center">
+<img src="https://images.unsplash.com/photo-1611068813-2cba05b8f1c3?w=300&h=200&fit=crop&crop=center" width="100%" style="border-radius: 10px;"/>
+
+### 🎥 **AI Video Generator**
+**`React` `Python` `HuggingFace` `AI`**
+
+🤖 NLP text processing  
+🎬 Automated video rendering  
+✨ Seamless user experience  
+🔄 Real-time preview pipeline
+
+[View Project →](https://github.com/johnwesley755)
+
+</td>
+<td width="33%" align="center">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop&crop=center" width="100%" style="border-radius: 10px;"/>
+
+### 🤖 **BPO Automation Suite**
+**`Express.js` `Firebase` `Python` `NLP`**
+
+🔒 Multi-user authentication  
+🧠 Intelligent chatbot system  
+📊 Analytics dashboard  
+⚙️ Task automation engine
+
+[View Project →](https://github.com/johnwesley755)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=johnwesley755&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=johnwesley755&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD93D&currStreakLabel=4ECDC4" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley755&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff&langs_count=10" width="50%" />
+
+</div>
+
+---
+
+## 🎯 **Activity Visualization**
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwesley755&custom_title=John%20Wesley's%20Contribution%20Graph&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/john-wesley-6707ab258">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+<br/>
+<sub><b>Professional Network</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://twitter.com/johnwesley97513">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+<br/>
+<sub><b>Tech Updates</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://instagram.com/john_wesley_755">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+<br/>
+<sub><b>Behind the Code</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://johnwesley.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B"/>
+<br/>
+<sub><b>Full Experience</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💫 **The Creative Process**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💡 Ideate] --> B[🎨 Design]
+    B --> C[⚡ Develop]
+    C --> D[🚀 Deploy]
+    D --> E[✨ Delight Users]
+    E --> A
+    
+    style A fill:#FF6B6B,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style B fill:#4ECDC4,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#45B7D1,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#96CEB4,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#FFEAA7,stroke:#ffffff,stroke-width:2px,color:#000000
+```
+
+</div>
+
+---
+
+## 🎮 **Fun Zone**
+
+<div align="center">
+
+### 🐍 **Contribution Snake**
 <p align="center">
   <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="github contribution snake animation" />
 </p>
 
+</div>
+
 ---
 
-## 📌 Final Message
+## 💌 **Parting Words**
 
-<p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Thanks+for+visiting+💙;Keep+building+cool+stuff+🚀;Stay+creative+🎨;Connect+anytime+💌" />
-</p>
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+space!+💫;Let's+build+something+amazing+together+🚀;Stay+curious%2C+keep+coding!+💻;Connect+with+me+anytime+✨" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20Views&color=4ECDC4&style=for-the-badge" alt="Profile Views" />
+</div>
