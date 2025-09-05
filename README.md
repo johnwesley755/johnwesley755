@@ -47,20 +47,10 @@ const johnWesley = {
 
 ---
 
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-### 🎨 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,framer&theme=dark&perline=9" />
-
-### ⚡ **Backend Power**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,fastapi&theme=dark&perline=8" />
-
-### 🚀 **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,vercel,netlify&theme=dark&perline=8" />
-
-</div>
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,framer,figma,python,c,express,nodejs,mongodb,mui,git,github,firebase" />
+</p>
 
 ---
 
@@ -81,11 +71,11 @@ const johnWesley = {
 🔄 Scalable dealer management  
 📱 Responsive design system
 
-[View Project →](https://github.com/johnwesley755)
+[View Project →](https://github.com/johnwesley755/car-dealership-application)
 
 </td>
 <td width="33%" align="center">
-<img src="https://images.unsplash.com/photo-1611068813-2cba05b8f1c3?w=300&h=200&fit=crop&crop=center" width="100%" style="border-radius: 10px;"/>
+<img src="https://i.ytimg.com/vi/GPW1dZ8rCUI/maxresdefault.jpg" width="100%" style="border-radius: 10px;"/>
 
 ### 🎥 **AI Video Generator**
 **`React` `Python` `HuggingFace` `AI`**
@@ -95,7 +85,7 @@ const johnWesley = {
 ✨ Seamless user experience  
 🔄 Real-time preview pipeline
 
-[View Project →](https://github.com/johnwesley755)
+[View Project →](https://github.com/johnwesley755/shorts-video)
 
 </td>
 <td width="33%" align="center">
@@ -109,7 +99,7 @@ const johnWesley = {
 📊 Analytics dashboard  
 ⚙️ Task automation engine
 
-[View Project →](https://github.com/johnwesley755)
+[View Project →](https://github.com/johnwesley755/ai-calling-agent)
 
 </td>
 </tr>
