@@ -12,7 +12,7 @@
 
 ---
 
-## 🎭 **About This Developer**
+## 🎭 **About me*
 
 <table>
 <tr>
