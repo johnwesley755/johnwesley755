@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Digital Universe
+# 🌟 Welcome to My Profile
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=John%20Wesley&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Tech%20Innovator&descAlignY=55&descSize=18" width="100%"/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+with+Code;💡+From+Concept+to+Reality;🎨+Design+%2B+Development+%3D+Magic;⚡+Microservices+%7C+AI+%7C+Animations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+with+Code;💡+From+Concept+to+Reality;🎨+Design+%2B+Development+%3D+Magic;" alt="Typing SVG" />
   
 </div>
 
