@@ -33,6 +33,7 @@ const johnWesley = {
 </td>
 <td width="50%">
 
+
 ### 🎯 **Quick Stats**
 - 🧠 **Obsessions**: UI/UX Polish & Clean Architecture
 - 💻 **Specialty**: Microservices & Interactive Design  
