@@ -67,6 +67,7 @@ const johnWesley = {
 ### 🚗 **Car Dealership Platform**
 **`Django` `Node.js` `Docker` `React`**
 
+
 🏗️ Microservices architecture  
 ⚡ Real-time vehicle listings  
 🔄 Scalable dealer management  
