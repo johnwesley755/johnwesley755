@@ -68,13 +68,10 @@
 
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=johnwesley755&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=johnwesley755&theme=aura&hide_border=true&border_radius=12" />
 </p>
 
 ---
@@ -82,11 +79,8 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwesley755&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwesley755&bg_color=0d1117&color=bb86fc&line=7f5af0&point=58a6ff&area=true&area_color=7f5af0&hide_border=true"/>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
