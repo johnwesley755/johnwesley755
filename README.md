@@ -1,62 +1,145 @@
-# 🌟 John Wesley
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=header&text=John%20Wesley&fontSize=50&fontColor=ffffff&animation=fadeIn)
+# 👋 Hi, I'm John Wesley
 
-### Full Stack Developer | UI/UX Designer | Tech Innovator
+### Full Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://johnwesley.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-wesley-6707ab258)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnwesley97513)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Spring+Boot+%7C+FastAPI;Always+Learning+New+Technologies"/>
+
+<p align="center">
+
+<a href="https://johnwesley.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/john-wesley-6707ab258">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/johnwesley755">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:johnwesley8113@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🎭 About Me
+# 💫 About Me
 
-I am a passionate developer based in **Chennai**, focused on blending clean architecture with polished, interactive design. I believe that **Function + Form = Impact**.
+<table>
+<tr>
 
-- 🚀 **Currently Focusing on**: Next.js, Framer Motion, and 3D Web Experiences.
-- 🧠 **Obsessions**: UI/UX Polish, Microservices, and Clean Code.
-- 🎧 **Vibe**: Coding to Synthwave & Lo-Fi beats.
-- 💡 **Core Belief**: Every pixel has a purpose.
+<td width="55%">
+
+- 💻 Full Stack Developer from Chennai, India.
+- 🚀 Passionate about building scalable web applications.
+- ⚡ Interested in modern backend architectures and responsive frontend development.
+- 🌱 Continuously learning new technologies and best development practices.
+- 🎯 Focused on writing clean, maintainable and production-ready code.
+
+</td>
+
+<td width="45%">
+
+<img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+# 🚀 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer,figma,python,nodejs,express,mongodb,firebase,git,github,docker" />
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,java,spring,nodejs,express,python,fastapi,mongodb,postgres,firebase,git,github,docker,figma"/>
+
+</p>
+
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=johnwesley755&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 Featured Projects
+# 📈 Contribution Graph
 
-| Project | Tech | Description |
-| :--- | :--- | :--- |
-| **🚗 Car Dealership** | `Django`, `Node`, `Docker` | Microservices platform with real-time vehicle listings. |
-| **🎥 AI Video Gen** | `React`, `Python`, `HuggingFace` | Automated video rendering via NLP processing. |
-| **🤖 BPO Automation** | `Express`, `Firebase`, `NLP` | Intelligent chatbot system with task automation. |
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwesley755&theme=tokyo-night&hide_border=true"/>
 
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="github contribution snake animation" />
+
+<img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
+
 </p>
+
+---
+
+# 📜 Certifications
+
+- IBM Full Stack Software Developer Professional Certificate
+- Google UI/UX Design Certification
+- Frontend for Java Full Stack Development
+
+---
+
+# 🏅 Achievements
+
+- 🏆 Pitchathon Finalist (VIT)
+- 🏆 Innothon'24 Hackathon Organizer
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://johnwesley.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/john-wesley-6707ab258">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/johnwesley755">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:johnwesley8113@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnwesley755&label=Profile%20Views&color=4ECDC4&style=for-the-badge" />
+
+### Thanks for visiting my profile!
+
 </div>
-
----
-
-<p align="center">
-  <i>"Stay curious, keep coding!"</i>
-</p>
