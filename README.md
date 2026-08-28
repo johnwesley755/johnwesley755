@@ -68,13 +68,6 @@
 
 
 ---
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johnwesley755&theme=aura&hide_border=true&border_radius=12" />
-</p>
-
----
 
 # 📈 Contribution Graph
 
