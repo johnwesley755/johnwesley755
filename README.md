@@ -75,7 +75,6 @@
 <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
----
 
 # 🤝 Connect With Me
 
