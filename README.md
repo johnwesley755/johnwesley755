@@ -66,14 +66,6 @@
 
 </p>
 
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwesley755&bg_color=0d1117&color=bb86fc&line=7f5af0&point=58a6ff&area=true&area_color=7f5af0&hide_border=true"/>
-</p>
 ---
 
 # 🐍 Contribution Snake
@@ -83,22 +75,6 @@
 <img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
-
----
-
-# 📜 Certifications
-
-- IBM Full Stack Software Developer Professional Certificate
-- Google UI/UX Design Certification
-- Frontend for Java Full Stack Development
-
----
-
-# 🏅 Achievements
-
-- 🏆 Pitchathon Finalist (VIT)
-- 🏆 Innothon'24 Hackathon Organizer
-
 ---
 
 # 🤝 Connect With Me
